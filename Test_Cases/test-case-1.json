@@ -1,0 +1,14 @@
+{
+  "TestCase_id": "001",
+  "Title": "User login with valid email and password",
+  "Precondition": "User is not logged in",
+  "Test data": "A valid user account",
+  "Steps": {
+    "1": "Open the website",
+    "2": "Click the 'Sign in' link",
+    "3": "Enter the valid data into the 'Email' field ",
+    "4": "Enter the valid data into the 'Password' field",
+    "5": "Click the 'Sign in' button"
+  },
+  "Expected result": "The user is logged in. The message about the successful login is shown"
+}
