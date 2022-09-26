@@ -1,0 +1,18 @@
+{
+  "Bug_id": "001",
+  "Severity": "Medium",
+  "Summary": "Mobile_iOS. The 'ENQUIRY' input field is not activated on the 'Contact Us' page after tapping inside the field",
+  "Steps to reproduce": {
+    "1": "Open the site http://opencart.qatestlab.net/",
+    "2": "Sroll down to the footer",
+    "3": "Tap the 'Store info' link in the footer",
+    "4": "Tap inside the 'ENQUIRY' input field"
+  },
+  "Actual result": "The 'ENQUIRY' field is not activated on the 'Contact Us' page and the keyboard is not shown after tapping inside the 'ENQUIRY' field",
+  "Expected result": "The moving cursor is  shown in the 'ENQUIRY' input field. The keyboard is shown below the 'ENQUIRY' field. The text can be input in the 'ENQUIRY' field after tapping inside the 'ENQUIRY' field",
+  "Environment": "iPhone 7 iOS 15.5 Safari 15.5",
+  "Attached files": {
+    "Screenshot": "https://www.dropbox.com/s/0eze8u0w46dva1o/screenshot_enquiry.jpeg?dl=0",
+    "Screenrecord": "https://www.dropbox.com/s/lgpf9dkuee27ot7/screenrecord_enquiry.mp4?dl=0"
+ }
+}

@@ -1,0 +1,18 @@
+{
+  "Bug_id": "002",
+  "Severity": "Medium",
+  "Summary": "The drop-down list items are not shown in the 'Select country' drop-down list after clicking the 'Select country' container",
+  "Steps to reproduce": {
+    "1": "Open the site  https://museum-portal.com/en/",
+    "2": "Click the 'Museums' button on the navigation menu",
+    "3": "Click on the 'Select country' container of the 'Search' section",
+    "4": "Pay attention to the drop-down list"
+  },
+  "Actual result": "The 'Select country' container is highlighted in green and the drop-down list items  are not shown in the drop-down list of the 'Search' section on the 'Museums' page after clicking the 'Select country' container",
+  "Expected result": "The selection of the countries is shown in the 'Select country' drop-down list of the 'Search' section on the 'Museums' page after clicking the 'Select country' container",
+  "Environment": "macOS Monterey 12.4 Google Chrome - 102.0.5005.115",
+  "Attached files": {
+    "1": "Screenshot - https://www.dropbox.com/s/u0esbl1nn0e8xde/screenshot_dropdown.jpg?dl=0",
+    "2": "Screenrecord link - https://www.dropbox.com/s/drgvmav8edhm94s/screenvideo_dropdownlist.mp4?dl=0"
+  }
+}

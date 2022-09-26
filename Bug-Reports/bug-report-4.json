@@ -1,0 +1,19 @@
+{
+  "Bug_id": "004",
+  "Severity": "Minor",
+  "Summary": "The text is interrupted with symbols in the slide title in the image carousel on the 'The microminiatures museum of Mykola Syadristy' page",
+  "Description": "The apostrophe symbol ´ is depicted as code '&#39;' in the 'Mother&#39;s portrait' text in the slide title in the image carousel on the 'The microminiatures museum of Mykola Syadristy' page",
+  "Steps to reproduce": {
+    "1": "Open the site https://museum-portal.com/en/",
+    "2": "Click the 'The microminiatures museum of Mykola Syadristy' link in the 'Expositions' category",
+    "3": "Scroll the image carousel to the right",
+    "4": "Pay attention to the 'Mother&#39;s portrait' title"
+  },
+  "Actual result": "The apostrophe symbol ´ is shown as code '&#39;' in the 'Mother&#39;s portrait' text in the slide title in the image carousel on the 'The microminiatures museum of Mykola Syadristy' page",
+  "Expected result": "The text is depicted as 'Mother´s portrait' in the slide title in the image carousel on the 'The microminiatures museum of Mykola Syadristy' page",
+  "Environment": "macOS Monterey 12.4 Safari 15.5",
+  "Attached files": {
+    "Screenshot": "https://www.dropbox.com/s/4kokjo9m1yml7f1/Screenshot_text%20with%20symbols.png?dl=0",
+    "Screenrecord link": "https://www.dropbox.com/s/ojck6uu8ql3uld2/screenvideo_textwithsymbols.mp4?dl=0"
+  }
+}

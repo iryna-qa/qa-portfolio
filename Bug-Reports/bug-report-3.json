@@ -1,0 +1,19 @@
+{
+  "Bug_id": "003",
+  "Severity": "Medium",
+  "Summary": "The error message is shown on the results page after clicking the 'English' option in the 'Books by Language' category list on the 'Subjects' page",
+  "Steps to reproduce": {
+    "1": "Open the site https://openlibrary.org",
+    "2": "Click the 'Browse' text button in the header",
+    "3": "Click  the 'Subjects' option in the drop-down menu",
+    "4": "Click the 'English' option link in the 'Books by Language' list",
+    "5": "Pay attention to the message on the results page"
+  },
+  "Actual result": "The 'Unable to render this page' error message is shown on the results page after clicking the 'English' option link in the 'Books by Language' category list on the 'Subjects' page",
+  "Expected result": "Books in English language are shown on the results page after clicking the 'English' option link in the 'Books by Language' category list on the 'Subjects' page",
+  "Environment": "macOS Monterey 12.4 Safari 15.5",
+  "Attached files": {
+    "1": "Screenshot - https://www.dropbox.com/s/8nrha03b8nx7dzo/Screenshot_error.png?dl=0",
+    "2": "Screenrecord link - https://www.dropbox.com/s/cnrm13hyd1krxct/screenrecord_error.mp4?dl=0"
+  }
+}
