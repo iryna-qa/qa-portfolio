@@ -1,5 +1,7 @@
-Hello, my name is Iryna Goncharuk and I am a QA Tester.
+Hello, my name is Iryna Goncharuk and I am an ISTQB certified QA Tester.
 
 This portfolio is created to show my skill set and my work style.
 
-Never standing still, I continue to learn and develop myself in the area of Quality Assurance. 
+Never standing still, I continue to gain knowledge and master latest tools.
+
+Let's connect : https://www.linkedin.com/in/iryna-goncharuk 
